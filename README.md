@@ -23,4 +23,4 @@ This project is an **interactive Excel dashboard** designed to analyze and visua
 
 
 ```markdown
-![Dashboard Preview](https://github.com/mustajib77/Excel-Projects/blob/main/Sales_Dashboard_ss.png)
+
